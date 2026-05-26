@@ -9,25 +9,25 @@ function renderTitles() {
       <div class="title-card elite">
         <h2>RKSGM</h2>
         <p class="title-name">Racing Kings Super Grandmaster</p>
-        <p class="req"><strong>Requirements:</strong> At least 500 rated RK games, reach 2400 rating, win 3 rated RK tournaments with a performance of at least 2400 and with at least 10 games.</p>
+        <p class="req"><strong>Requirements:</strong> At least 5000 rated RK games, reach 2500 rating, win 5 rated RK tournaments with a performance of at least 2500 and with at least 10 games.</p>
       </div>
 
       <div class="title-card grand">
         <h2>RKGM</h2>
         <p class="title-name">Racing Kings Grandmaster</p>
-        <p class="req"><strong>Requirements:</strong> At least 500 rated RK games, reach 2200 rating, win 3 rated RK tournaments with a performance of at least 2200 and with at least 10 games.</p>
+        <p class="req"><strong>Requirements:</strong> At least 3000 rated RK games, reach 2400 rating, win 3 rated RK tournaments with a performance of at least 2400 and with at least 10 games.</p>
       </div>
 
       <div class="title-card master">
         <h2>RKM</h2>
         <p class="title-name">Racing Kings Master</p>
-        <p class="req"><strong>Requirements:</strong> At least 300 rated RK games, reach 2100 rating, win 3 rated RK tournaments with a performance of at least 2100 and with at least 10 games.</p>
+        <p class="req"><strong>Requirements:</strong> At least 1000 rated RK games, reach 2100 rating for tier 1, 2200 for tier 2, 2300 for tier 3 (bronze,silver,gold) , win 3 rated RK tournaments with a performance of at least 2100 (2200,2300) and with at least 10 games.</p>
       </div>
 
       <div class="title-card candidate">
         <h2>RKCM</h2>
         <p class="title-name">Racing Kings Candidate Master</p>
-        <p class="req"><strong>Requirements:</strong> At least 200 rated RK games, reach 2000 rating, win 3 rated RK tournaments with a performance of at least 2000 and with at least 10 games.</p>
+        <p class="req"><strong>Requirements:</strong> At least 500 rated RK games, reach 2000 rating, win 3 rated RK tournaments with a performance of at least 2000 and with at least 10 games.</p>
       </div>
 
       <div class="title-card candidate-light">
