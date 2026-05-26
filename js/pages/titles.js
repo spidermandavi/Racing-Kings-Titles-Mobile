@@ -9,43 +9,43 @@ function renderTitles() {
       <div class="title-card elite">
         <h2>RKSGM</h2>
         <p class="title-name">Racing Kings Super Grandmaster</p>
-        <p class="req"><strong>Requirements:</strong> At least 500 rated RK games, reached 2400 rating, won 3 rated RK tournaments with a performance of at least 2400 and with at least 15 games.</p>
+        <p class="req"><strong>Requirements:</strong> At least 500 rated RK games, reach 2400 rating, win 3 rated RK tournaments with a performance of at least 2400 and with at least 10 games.</p>
       </div>
 
       <div class="title-card grand">
         <h2>RKGM</h2>
         <p class="title-name">Racing Kings Grandmaster</p>
-        <p class="req"><strong>Requirements:</strong> At least 500 rated RK games, reached 2200 rating, won 3 rated RK tournaments with a performance of at least 2200 and with at least 15 games.</p>
+        <p class="req"><strong>Requirements:</strong> At least 500 rated RK games, reach 2200 rating, win 3 rated RK tournaments with a performance of at least 2200 and with at least 10 games.</p>
       </div>
 
       <div class="title-card master">
         <h2>RKM</h2>
         <p class="title-name">Racing Kings Master</p>
-        <p class="req"><strong>Requirements:</strong> At least 300 rated RK games, reached 2100 rating, won 3 rated RK tournaments with a performance of at least 2100 and with at least 15 games.</p>
+        <p class="req"><strong>Requirements:</strong> At least 300 rated RK games, reach 2100 rating, win 3 rated RK tournaments with a performance of at least 2100 and with at least 10 games.</p>
       </div>
 
       <div class="title-card candidate">
         <h2>RKCM</h2>
         <p class="title-name">Racing Kings Candidate Master</p>
-        <p class="req"><strong>Requirements:</strong> At least 200 rated RK games, reached 2000 rating, won 3 rated RK tournaments with a performance of at least 2000 and with at least 15 games.</p>
+        <p class="req"><strong>Requirements:</strong> At least 200 rated RK games, reach 2000 rating, win 3 rated RK tournaments with a performance of at least 2000 and with at least 10 games.</p>
       </div>
 
       <div class="title-card candidate-light">
         <h2>RKC</h2>
         <p class="title-name">Racing Kings Candidate</p>
-        <p class="req"><strong>Requirements:</strong> At least 100 rated RK games, reached 1900 rating, won 1 tournament with at least 15 games.</p>
+        <p class="req"><strong>Requirements:</strong> At least 100 rated RK games, reach 1900 rating, win 1 tournament with at least 10 games.</p>
       </div>
 
       <div class="title-card intermediate">
         <h2>RKI</h2>
         <p class="title-name">Racing Kings Intermediate</p>
-        <p class="req"><strong>Requirements:</strong> At least 100 rated RK games, reached 1800 rating.</p>
+        <p class="req"><strong>Requirements:</strong> At least 100 rated RK games, reach 1800 rating.</p>
       </div>
 
       <div class="title-card beginner">
         <h2>RKB</h2>
         <p class="title-name">Racing Kings Beginner</p>
-        <p class="req"><strong>Requirements:</strong> Played at least 30 rated RK games and applied for the title.</p>
+        <p class="req"><strong>Requirements:</strong> Play at least 30 rated RK games and apply for the title.</p>
       </div>
 
     </div>
@@ -57,19 +57,19 @@ function renderTitles() {
       <div class="title-card special">
         <h2>RKK</h2>
         <p class="title-name">Racing Kings King</p>
-        <p class="req"><strong>Requirements:</strong> Reached 2600 rating or won at least one Racing Kings World Championship (RKWC).</p>
+        <p class="req"><strong>Requirements:</strong> Reach 2600 rating or win at least one Racing Kings World Championship (RKWC).</p>
       </div>
 
       <div class="title-card special">
         <h2>RKV</h2>
         <p class="title-name">Racing Kings Veteran</p>
-        <p class="req"><strong>Requirements:</strong> Played at least 10,000 RK games or played Racing Kings for at least 5 years.</p>
+        <p class="req"><strong>Requirements:</strong> Play at least 10,000 RK games or play Racing Kings for at least 5 years.</p>
       </div>
 
       <div class="title-card special">
         <h2>RKHM</h2>
         <p class="title-name">Racing Kings Honorary Master</p>
-        <p class="req"><strong>Requirements:</strong> Accomplished something great for the Racing Kings community.</p>
+        <p class="req"><strong>Requirements:</strong> Accomplish something great for the Racing Kings community.</p>
       </div>
 
     </div>
